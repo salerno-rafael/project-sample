@@ -1,2 +1,1 @@
-# project-sample
-readme
+Multi-project with gradle and spring boot
